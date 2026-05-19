@@ -1,6 +1,6 @@
 {
-  "versionCode": 1,
+  "versionCode": 2,
   "versionName": "1.1.4",
-  "apkUrl": "PASTE_YOUR_COPIED_RELEASE_APK_LINK_HERE",
+  "apkUrl": "https://github.com/zyeemzia/grconverterpro-distr/releases/download/v1.1.4/app-release.apk",
   "changeLog": "Initial release with basic features."
 }
